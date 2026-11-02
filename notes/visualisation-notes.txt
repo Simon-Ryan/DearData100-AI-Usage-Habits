@@ -1,0 +1,31 @@
+AI Usage Galaxy Visualisation
+
+Concept:
+Each AI interaction appears as a star.
+
+Tool:
+Copilot = Circle
+ChatGPT = Triangle
+Gemini = Square
+Claude = Pentagon
+
+Colour:
+Study = Blue
+Coding = Green
+Definition = Yellow
+Research = Purple
+Shopping = Orange
+Image Generation = Pink
+Video Generation = Red
+
+Size:
+Duration of AI interaction
+
+Brightness:
+Usefulness score
+
+Position:
+Time of day
+
+Goal:
+Show patterns in how AI is used throughout daily life.
